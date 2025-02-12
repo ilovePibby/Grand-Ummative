@@ -5,3 +5,4 @@ This project was the final project for Coding Club. Coding Club is a student led
 >INFORMATION
 >-------------------------
 >This game does not recive updates. If for whatever reason the executable provided in the package file leaks memory or has other issues, do not come to us crying.
+if you ingnore this and come to us crying you will go KABOOM ynehehehehehhehehehhehehehe
